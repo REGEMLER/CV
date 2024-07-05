@@ -24,6 +24,12 @@ const experience = [
         "link": "https://github.com/REGEMLER/Nonogram"
     },
     {
+        "id": "5",
+        "name": "Coffee-house",
+        "img": "assets/IMG/coffee.webp",
+        "link": "https://regemler.github.io/coffee/coffee-house/"
+    },
+    {
         "id": "6",
         "name": "Library",
         "img": "assets/IMG/library.webp",
