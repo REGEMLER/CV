@@ -6,7 +6,7 @@
 - email: anoraglar@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/%D1%8F%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2-%D1%80%D1%8B%D1%87%D0%B8%D0%BA-56932023b/)
 - GitHub: [REGEMLER](https://github.com/REGEMLER)
-- [Read more...](https://regemler.github.io/Resume/)
+- [Read more...](https://regemler.github.io/CV/)
 ***
 ## About Me
 I have started my career as a design engineer. I have worked a lot with systems like AutoCAD and KOMPAS 3D. 
@@ -17,6 +17,7 @@ I want to become a proficient Frontend Developer.
 + HTML5, CSS3
 + Bootstrap 5
 + JavaScript 
++ TypeScript 
 + Figma
 + GIT, Github
 + PHP Basics
@@ -26,9 +27,9 @@ I want to become a proficient Frontend Developer.
 + Vue 3
 ## Experience: 
 I have done some little projects during my education: 
-+ [GameMemo](https://regemler.github.io/Cards/)
++ [Puzzle-English](https://regemler.github.io/Puzzle-English/)
 + [ClothingShop](https://regemler.github.io/ClothingStor)
-+ [FLowerShop](https://regemler.github.io/Plant/)
++ [coffee-house](https://regemler.github.io/coffee/)
 ## Education and Courses:
 - SUKHOI STATE TECHNICAL UNIVERSITY OF GOMEL (Hydro-Pneumatic Systems of Mobile and Technological Machines)
 - IT Step (Front-end developer)
@@ -38,7 +39,7 @@ I have done some little projects during my education:
 ## Languages:
 + Russian - Native.
 + Belorussian - Native
-+ English - A2.
++ English - B1.
 + Polish - A2. 
 + Spanish - B1.
 + Italian - A2

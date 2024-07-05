@@ -210,29 +210,6 @@ body{
     color: black;
 }
 
-
-.skils{
-    width: 90%;
-    margin: 0;
-    align-self: flex-start;
-    padding: 0 10px;
-}
-
-.list__skils{
-    display: flex;
-    flex-direction: column;
-}
-
-.skils__item{
-    display: inline-block;
-    font-size: 16px;
-    margin: 5px 0;
-    padding: 10px;
-    color:white;
-    border-radius: 4px;
-    background-color: var(--Light);
-} 
-
 .section{
     padding:10px;
 }
