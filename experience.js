@@ -65,6 +65,12 @@ const experience = [
         "img": "assets/IMG/English.webp",
         "link": "https://regemler.github.io/Puzzle-English/"
     },
+    {
+        "id": "12",
+        "name": "Hangman",
+        "img": "assets/IMG/hangman.webp",
+        "link": "https://regemler.github.io/Hangman/hangman/"
+    },
 ]
 
 export default experience;
