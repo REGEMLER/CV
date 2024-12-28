@@ -4,7 +4,6 @@
 ***
 ## Contact information:
 - email: anoraglar@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/%D1%8F%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2-%D1%80%D1%8B%D1%87%D0%B8%D0%BA-56932023b/)
 - GitHub: [REGEMLER](https://github.com/REGEMLER)
 - [Read more...](https://regemler.github.io/CV/)
 ***
@@ -19,12 +18,14 @@ I want to become a proficient Frontend Developer.
 + JavaScript 
 + TypeScript 
 + Figma
-+ GIT, Github
-+ PHP Basics
-+ VS Code, Atom, Notepad++
++ GIT, Github 
 + React
 + Angular
 + Vue 3
++ PHP
++ Node JS
++ SQL
++ Delphi 
 ## Experience: 
 I have done some little projects during my education: 
 + [Puzzle-English](https://regemler.github.io/Puzzle-English/)
@@ -40,7 +41,5 @@ I have done some little projects during my education:
 + Russian - Native.
 + Belorussian - Native
 + English - B1.
-+ Polish - A2. 
 + Spanish - B1.
-+ Italian - A2
 
